@@ -2,5 +2,6 @@
 Repositorio del curoso de Herraminetas y gestor de la información
 
 Contenido:
-uso de github
-uso de Phyton
+1.-uso de github
+
+2.-uso de Phyton
